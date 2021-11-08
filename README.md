@@ -26,6 +26,12 @@ Email address
 
 ### Running Locally
 
+## Deployment
+
+### Local
+
+### Production
+
 ## Usage
 
 Examples, demos and screenshots
