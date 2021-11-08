@@ -54,6 +54,8 @@ Examples, demos and screenshots
 
 ## Contributing
 
+https://nvie.com/posts/a-successful-git-branching-model/
+
 ## License
 
 ## Acknowledgements
