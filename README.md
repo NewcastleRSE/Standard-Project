@@ -13,15 +13,15 @@ Curabitur a tempus arcu. Maecenas blandit risus quam, quis convallis justo preti
 
 ## Built With
 
-## Getting Start
+## Getting Started
 
-### Prerequisits
+### Prerequisites
 
 ### Installation
 
 ### Running Locally
 
-## Useage
+## Usage
 
 Examples, demos and screenshots
 
