@@ -60,6 +60,16 @@ https://nvie.com/posts/a-successful-git-branching-model/
 
 ## Citiation
 
+Please cite the associated papers for this work if you use this code:
+
+```
+@article{xxx2021paper,
+  title={Title},
+  author={Author},
+  journal={arXiv},
+  year={2021}
+}
+```
 
 
 ## Acknowledgements
