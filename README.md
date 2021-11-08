@@ -49,3 +49,4 @@ Examples, demos and screenshots
 ## License
 
 ## Acknowledgements
+Parts of this work were assisted by the UK Research Councils, EPSRC grant ref. EP/L012345/1, “Example project title, please update”.
