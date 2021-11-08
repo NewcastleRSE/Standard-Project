@@ -10,6 +10,11 @@ Curabitur a tempus arcu. Maecenas blandit risus quam, quis convallis justo preti
 ### Owners/PI
 
 #### Name
+Job Title
+Department
+School
+Faculty
+Email address
 
 ## Built With
 
