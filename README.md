@@ -1,4 +1,4 @@
-# Standard-Project
+# Standard Project
 A template repo for the standard RSE project
 
 ## About the project
