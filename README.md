@@ -27,6 +27,8 @@ Newcastle University
 
 ### Running Locally
 
+### Running Tests
+
 ## Deployment
 
 ### Local
