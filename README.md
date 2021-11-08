@@ -13,7 +13,7 @@ Curabitur a tempus arcu. Maecenas blandit risus quam, quis convallis justo preti
 Job Title  
 Department  
 School  
-Faculty 
+Faculty  
 Email address 
 
 ## Built With
