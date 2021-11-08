@@ -29,21 +29,33 @@ This section is intended to list the frameworks and tools you're using to develo
 
 ### Prerequisites
 
+Any tools or versions of languages needed to run code. For example specific Python or Node versions. Minimum hardware requirements also go here.
+
 ### Installation
+
+How to build or install the applcation.
 
 ### Running Locally
 
+How to run the application on your local system.
+
 ### Running Tests
+
+How to run tests on your local system.
 
 ## Deployment
 
 ### Local
 
+Deploying to a production style setup but on the local system. Examples of this would include `venv`, `anaconda`, `Docker` or `minikube`. 
+
 ### Production
+
+Deploying to the production system. Examples of this would include cloud, HPC or virtual machine. 
 
 ## Usage
 
-Examples, demos and screenshots
+Any links to production environment, video demos and screenshots.
 
 ## Roadmap
 
