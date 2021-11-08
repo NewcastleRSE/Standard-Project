@@ -32,6 +32,11 @@ Examples, demos and screenshots
 
 ## Roadmap
 
+☑️ Initial Research
+☐ Minimum viable product <-- You are Here
+☐ Alpha Release
+☐ Feature-Complete Release
+
 ## Contributing
 
 ## License
