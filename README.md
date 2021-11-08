@@ -41,7 +41,7 @@ Examples, demos and screenshots
 ☑️ Initial Research  
 ☐ Minimum viable product <-- You are Here  
 ☐ Alpha Release  
-☐ Feature-Complete Release  
+- [ ] Feature-Complete Release  
 
 ## Contributing
 
