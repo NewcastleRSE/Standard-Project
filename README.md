@@ -94,4 +94,4 @@ Please cite the associated papers for this work if you use this code:
 
 
 ## Acknowledgements
-Parts of this work were assisted by the UK Research Councils, EPSRC grant ref. EP/L012345/1, “Example project title, please update”.
+This work was funded by a grant from the UK Research Councils, EPSRC grant ref. EP/L012345/1, “Example project title, please update”.
