@@ -1,26 +1,25 @@
-# Sjogren's database
-
-Sjogren's database is a registry of patients who have been diagnised with Sjogren's Syndrome. The existing web application can no longer be supported by the oiginal developer as the codebase is outdated. The underlying database is still sound. 
-
+# Standard Project
+A template repo for the standard RSE project
 
 ## About
 
-The project is to build a new web client application that links to a database that contains some basic patient contact details. There is an associated (but unlinked) piece of software called MySjogren's Diary which is used by affected individuals to record their symptoms. There is an oportunity to streamline the two separate applications in some way. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sollicitudin ante at eleifend eleifend. Sed non vestibulum nisi. Aliquam vel condimentum quam. Donec fringilla et purus at auctor. Praesent euismod vitae metus non consectetur. Sed interdum aliquet nisl at efficitur. Nulla urna quam, gravida eget elementum eget, mattis nec tortor. Fusce ut neque tellus. Integer at magna feugiat lacus porta posuere eget vitae metus.
+
+Curabitur a tempus arcu. Maecenas blandit risus quam, quis convallis justo pretium in. Suspendisse rutrum, elit at venenatis cursus, dolor ligula iaculis dui, ut dignissim enim justo at ligula. Donec interdum dignissim egestas. Nullam nec ultrices enim. Nam quis arcu tincidunt, auctor purus sit amet, aliquam libero. Fusce rhoncus lectus ac imperdiet varius. Sed gravida urna eros, ac luctus justo condimentum nec. Integer ultrices nibh in neque sagittis, at pretium erat pretium. Praesent feugiat purus id iaculis laoreet. Proin in tellus tristique, congue ante in, sodales quam. Sed imperdiet est tortor, eget vestibulum tortor pulvinar volutpat. In et pretium nisl.
 
 ### Project Team
-Dr Fai Ng, Newcastle University  ([wan-fai.ng@newcastle.ac.uk](mailto:wan-fai.ng@newcastle.ac.uk))  
-Richard Howey, Newcastle University  ([richard.howey@newcastle.ac.uk](mailto:richard.howey@newcastle.ac.uk)) 
-Becky Osselton, Newcastle University ([rebecca.osselton@newcastle.ac.uk](mailto:rebecca.osselton@newcastle.ac.uk))  
+Dr L. Ipsum, Newcastle University  ([lorem.ipsum@newcastle.ac.uk](mailto:lorem.ipsum@newcastle.ac.uk))  
+Professor D. Sit Amet, XY University  ([d.sit.amet@newcastle.ac.uk](mailto:d.sit.amet@example.com))  
 
 ### RSE Contact
-Richard Howey  
+C. Adipiscing  
 RSE Team  
 Newcastle University  
-([richard.howey@newcastle.ac.uk](mailto:richard.howey@newcastle.ac.uk))  
+([consectetur.adpiscing@newcastle.ac.uk](mailto:consectetur.adpiscing@newcastle.ac.uk))  
 
 ## Built With
 
-TBC
+This section is intended to list the frameworks and tools you're using to develop this software. Please link to the home page or documentatation in each case.
 
 [Framework 1](https://something.com)  
 [Framework 2](https://something.com)  
