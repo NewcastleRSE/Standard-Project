@@ -79,16 +79,16 @@ https://nvie.com/posts/a-successful-git-branching-model/
 
 ## License
 
-## Citiation
+## Citation
 
 Please cite the associated papers for this work if you use this code:
 
 ```
-@article{xxx2021paper,
+@article{xxx2023paper,
   title={Title},
   author={Author},
   journal={arXiv},
-  year={2021}
+  year={2023}
 }
 ```
 
