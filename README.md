@@ -19,7 +19,7 @@ Newcastle University
 
 ## Built With
 
-This section is intended to list the frameworks and tools you're using to develop this software. Please link to the home page or documentatation in each case.
+This section is intended to list the frameworks and tools you're using to develop this software. Please link to the home page or documentation in each case.
 
 [Framework 1](https://something.com)  
 [Framework 2](https://something.com)  
@@ -29,11 +29,11 @@ This section is intended to list the frameworks and tools you're using to develo
 
 ### Prerequisites
 
-Any tools or versions of languages needed to run code. For example specific Python or Node versions. Minimum hardware requirements also go here.
+Any tools or versions of languages needed to run code. For example, specific Python or Node versions. Minimum hardware requirements also go here.
 
 ### Installation
 
-How to build or install the applcation.
+How to build or install the application.
 
 ### Running Locally
 
@@ -47,7 +47,7 @@ How to run tests on your local system.
 
 ### Local
 
-Deploying to a production style setup but on the local system. Examples of this would include `venv`, `anaconda`, `Docker` or `minikube`. 
+Deploying to a production-style setup but on the local system. Examples of this would include `venv`, `anaconda`, `Docker` or `minikube`. 
 
 ### Production
 
@@ -55,7 +55,7 @@ Deploying to the production system. Examples of this would include cloud, HPC or
 
 ## Usage
 
-Any links to production environment, video demos and screenshots.
+Any links to the production environment, video demos and screenshots.
 
 ## Roadmap
 
@@ -67,13 +67,13 @@ Any links to production environment, video demos and screenshots.
 ## Contributing
 
 ### Main Branch
-Protected and can only be pushed to via pull requests. Should be considered stable and a representation of production code.
+Protected and can only be pushed to via pull requests. It should be considered stable and a representation of production code.
 
 ### Dev Branch
-Should be considered fragile, code should compile and run but features may be prone to errors.
+Should be considered fragile; code should compile and run, but features may be prone to errors.
 
 ### Feature Branches
-A branch per feature being worked on.
+A branch per feature that is being worked on.
 
 https://nvie.com/posts/a-successful-git-branching-model/
 
