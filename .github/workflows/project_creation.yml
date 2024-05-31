@@ -41,8 +41,8 @@ jobs:
 
           # Need to create a new project. Use the same name as the repo.
           # can use gh project create but trying copy as a way to use the kanban template
-          echo "Creating a project based on the Kanban template"
-          gh project copy 34 --source-owner NewcastleRSE --target-owner NewcastleRSE --title $REPONAME
+          echo "Creating a project based on the RSE standard project (#67)"
+          gh project copy 67 --source-owner NewcastleRSE --target-owner NewcastleRSE --title $REPONAME
           # NB!! Should the owner here be the current user (@me is the shorthand for getting current user) 
           # or should it be the NewcastleRSE team?
 
