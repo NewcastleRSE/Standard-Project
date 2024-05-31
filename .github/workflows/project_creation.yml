@@ -1,0 +1,47 @@
+name: Initialise Repo
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  run-script:
+    name: run script
+
+    # We will only run this action when this repository isn't the
+    # template repository
+    #
+    if: >-
+      ${{ !github.event.repository.is_template }}
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Configure Git
+        run: |
+          git config --global user.name "${GITHUB_ACTOR}"
+          git config --global user.email "${GITHUB_ACTOR_EMAIL}"
+        shell: bash
+
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Run script
+        run: |
+          . ./scripts/create_project.sh
+          create-version-file
+
+      # TODO: delete this workflow file
+
+      - name: Add files and commit changes
+        run: |
+          git add .
+          git commit -m "Automated changes"
+          git push -u origin master
+        shell: bash
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
