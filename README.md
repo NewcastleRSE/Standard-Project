@@ -8,14 +8,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sollicitudin ante a
 Curabitur a tempus arcu. Maecenas blandit risus quam, quis convallis justo pretium in. Suspendisse rutrum, elit at venenatis cursus, dolor ligula iaculis dui, ut dignissim enim justo at ligula. Donec interdum dignissim egestas. Nullam nec ultrices enim. Nam quis arcu tincidunt, auctor purus sit amet, aliquam libero. Fusce rhoncus lectus ac imperdiet varius. Sed gravida urna eros, ac luctus justo condimentum nec. Integer ultrices nibh in neque sagittis, at pretium erat pretium. Praesent feugiat purus id iaculis laoreet. Proin in tellus tristique, congue ante in, sodales quam. Sed imperdiet est tortor, eget vestibulum tortor pulvinar volutpat. In et pretium nisl.
 
 ### Project Team
-Dr L. Ipsum, Newcastle University  ([lorem.ipsum@newcastle.ac.uk](mailto:lorem.ipsum@newcastle.ac.uk))  
-Professor D. Sit Amet, XY University  ([d.sit.amet@newcastle.ac.uk](mailto:d.sit.amet@example.com))  
 
-### RSE Contact
-C. Adipiscing  
-RSE Team  
-Newcastle University  
-([consectetur.adpiscing@newcastle.ac.uk](mailto:consectetur.adpiscing@newcastle.ac.uk))  
+| Name  | Role | Affiliation
+| ------------- | ------------- | ------------- |
+| Firstname Lastname  | PI | Newcastle University  |
+| Firstname Lastname | RSE  | Newcastle Universtiy  |
 
 ## Built With
 
@@ -37,7 +34,7 @@ How to build or install the application.
 
 ### Running Locally
 
-How to run the application on your local system.
+How to run the application on your local system. Examples of this would include `venv`, `anaconda`, `node`, `Docker` or `minikube`. 
 
 ### Running Tests
 
@@ -45,24 +42,7 @@ How to run tests on your local system.
 
 ## Deployment
 
-### Local
-
-Deploying to a production-style setup but on the local system. Examples of this would include `venv`, `anaconda`, `Docker` or `minikube`. 
-
-### Production
-
-Deploying to the production system. Examples of this would include cloud, HPC or virtual machine. 
-
-## Usage
-
-Any links to the production environment, video demos and screenshots.
-
-## Roadmap
-
-- [x] Initial Research  
-- [ ] Minimum viable product <-- You are Here  
-- [ ] Alpha Release  
-- [ ] Feature-Complete Release  
+Instructions on how to deploy to the staging or production systems. Examples of this would include cloud, HPC or virtual machine. Deployment should be done via GitHub Workflows but information on how these work and the different triggers should go here.
 
 ## Contributing
 
@@ -76,22 +56,6 @@ Should be considered fragile; code should compile and run, but features may be p
 A branch per feature that is being worked on.
 
 https://nvie.com/posts/a-successful-git-branching-model/
-
-## License
-
-## Citation
-
-Please cite the associated papers for this work if you use this code:
-
-```
-@article{xxx2023paper,
-  title={Title},
-  author={Author},
-  journal={arXiv},
-  year={2023}
-}
-```
-
 
 ## Acknowledgements
 This work was funded by a grant from the UK Research Councils, EPSRC grant ref. EP/L012345/1, “Example project title, please update”.
