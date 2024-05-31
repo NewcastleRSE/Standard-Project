@@ -32,10 +32,11 @@ jobs:
 
       - name: Run script
         run: |
-          # This is sudocode to outline what this script will need in order to work.
-
           # This needs to have a project scope token for authentification?
           ### authentication stuff here?? ###
+          
+          # get the name of the current repository and store in variable REPONAME
+          REPONAME=`gh repo view --json name -q ".name"`
 
           # Need to create a new project. Use the same name as the repo.
           # can use gh project create but trying copy as a way to use the kanban template
