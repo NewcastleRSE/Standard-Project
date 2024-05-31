@@ -34,6 +34,7 @@ jobs:
         run: |
           # This needs to have a project scope token for authentification?
           ### authentication stuff here?? ###
+          #gh auth refresh -s project
           
           # get the name of the current repository and store in variable REPONAME
           REPONAME=`gh repo view --json name -q ".name"`
