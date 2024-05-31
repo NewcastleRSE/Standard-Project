@@ -32,8 +32,22 @@ jobs:
 
       - name: Run script
         run: |
-          . ./scripts/create_project.sh
-          create-version-file
+          # This is sudocode to outline what this script will need in order to work.
+
+          # This needs to have a project scope token for authentification?
+          ### authentication stuff here?? ###
+
+          # Need to create a new project. Use the same name as the repo.
+          # can use gh project create but trying copy as a way to use the kanban template
+          echo "Creating a project based on the Kanban template"
+          gh project copy 34 --source-owner NewcastleRSE --target-owner NewcastleRSE --title $REPONAME
+          # NB!! Should the owner here be the current user (@me is the shorthand for getting current user) 
+          # or should it be the NewcastleRSE team?
+
+          # Need to link the project to this repo:
+          echo "Link the project to the new repo"
+          gh project link -R $REPONAME
+
 
       # TODO: delete this workflow file
 
