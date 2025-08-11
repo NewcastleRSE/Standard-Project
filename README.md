@@ -1,3 +1,7 @@
+[![unit tests - main branch](https://github.com/[Organisation]/[Repo]/actions/workflows/unitTests.yaml/badge.svg?branch=main)](https://github.com/[Organisation]/[Repo]/actions/workflows/unitTests.yaml)
+[![e2e tests - main branch](https://github.com/[Organisation]/[Repo]/actions/workflows/e2eTests.yml/badge.svg?branch=main)](https://github.com/[Organisation]/[Repo]/actions/workflows/e2eTests.yml)
+[![production build](https://github.com/[Organisation]/[Repo]/actions/workflows/prod.yaml/badge.svg?branch=main)](https://github.com/[Organisation]/[Repo]/actions/workflows/prod.yaml)
+
 # Standard Project
 A template repo for the standard RSE project
 
